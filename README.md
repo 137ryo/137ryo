@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 <!--
 **137ryo/137ryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
